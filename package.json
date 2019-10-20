@@ -1,6 +1,6 @@
 {
   "name": "sorting-alg",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Sorting algoritms which coded in JS",
   "main": "index.js",
   "keywords": "sorting,algorithms",
@@ -9,5 +9,13 @@
     "build": "browserify index.js -o bundle.js"
   },
   "author": "Busra Danisman",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/busradanisman/sorting-alg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/busradanisman/sorting-alg/issues"
+  },
+  "homepage": "https://github.com/busradanisman/sorting-alg#readme"
 }
