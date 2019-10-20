@@ -1,0 +1,13 @@
+{
+  "name": "sorting-alg",
+  "version": "2.0.0",
+  "description": "Sorting algoritms which coded in JS",
+  "main": "index.js",
+  "keywords": "sorting,algorithms",
+  "scripts": {
+    "start": "node index.js",
+    "build": "browserify index.js -o bundle.js"
+  },
+  "author": "Busra Danisman",
+  "license": "MIT"
+}
